@@ -1,8 +1,8 @@
 # Front-End Mentor Challenges
 This repository is where I'm summarizing all challenges that I've made for [Front-End Mentor](https://www.frontendmentor.io/).
-Do you know them? They are a great plataform to train and develop your front-end skills.<br>
-Stucked in some of these challenges? I would love to help you!
-Found somenthing in my challenges? I would love to hear your feedback too.<br>
+Do you know them? They are a great plataform to train and develop your front-end skills.<br><br>
+Stucked in some of these challenges? I would love to help you!<br>
+Found somenthing in my challenges? I would love to hear your feedback too.<br><br>
 If you want to find my profile, here it is: [André Serudo](https://www.frontendmentor.io/profile/andreserudo)
 
 ## Challenges
