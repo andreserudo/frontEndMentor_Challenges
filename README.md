@@ -2,10 +2,7 @@
 
 Hi! 👋
 
-This repository is where I'm summarizing all challenges that I've made for [Front-End Mentor](https://www.frontendmentor.io/). Do you know them? They are a great plataform to train and develop your front-end skills.
-
-Stucked in some of these challenges? I would love to help you!
-Found somenthing in my challenges? I would love to hear your feedback too.
+This repository is where I'm summarizing all challenges that I've made for [Front-End Mentor](https://www.frontendmentor.io/).  Do you know them? They are a great plataform to train and develop your front-end skills.  Stucked in some of these challenges? I would love to help you!  Found somenthing in my challenges? I would love to hear your feedback too.
 
 If you want to find my profile, here it is: [André Serudo](https://www.frontendmentor.io/profile/andreserudo)
 
