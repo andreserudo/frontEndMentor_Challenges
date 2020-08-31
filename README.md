@@ -14,4 +14,4 @@ Fylo data storage component - [Repository](https://github.com/andreserudo/fyloDa
 Coding bootcamp testimonials slider - [Repository](https://github.com/andreserudo/testimonialSlider) - [Live Site](https://testimonial-slider-serudo.vercel.app/)
 Four card feature section - [Repository](https://github.com/andreserudo/fourCards) - [Live Site](https://four-cards-serudo.vercel.app/)
 Single price grid component - [Repository](https://github.com/andreserudo/singlePriceGrid) - [Live Site](https://single-price-grid-serudo.vercel.app/)
-Ping single column coming soon page = [Repository](https://github.com/andreserudo/ping) - [Live Site](https://ping-serudo.vercel.app/)
+Ping single column coming soon page - [Repository](https://github.com/andreserudo/ping) - [Live Site](https://ping-serudo.vercel.app/)
