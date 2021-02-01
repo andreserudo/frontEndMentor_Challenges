@@ -16,3 +16,4 @@ Ping single column coming soon page - [Repository](https://github.com/andreserud
 Social media dashboard with theme switcher - 
 [Repository](https://github.com/andreserudo/social-media-switcher-theme) <br>
 Huddle landing page with alternating feature blocks - [Repository](https://github.com/andreserudo/huddleLandingPage) - [Live Site](https://huddle-landing-page-serudo.vercel.app/)
+Base Apparel coming soon page - [Repository](https://github.com/andreserudo/baseApparel)
