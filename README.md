@@ -14,4 +14,5 @@ Four card feature section - [Repository](https://github.com/andreserudo/fourCard
 Single price grid component - [Repository](https://github.com/andreserudo/singlePriceGrid) - [Live Site](https://single-price-grid-serudo.vercel.app/)<br>
 Ping single column coming soon page - [Repository](https://github.com/andreserudo/ping) - [Live Site](https://ping-serudo.vercel.app/)<br>
 Social media dashboard with theme switcher - 
-[Repository](https://github.com/andreserudo/social-media-switcher-theme)
+[Repository](https://github.com/andreserudo/social-media-switcher-theme) <br>
+Huddle landing page with alternating feature blocks - [Repository](https://github.com/andreserudo/huddleLandingPage) - [Live Site](https://huddle-landing-page-serudo.vercel.app/)
