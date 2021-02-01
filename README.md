@@ -15,5 +15,5 @@ Single price grid component - [Repository](https://github.com/andreserudo/single
 Ping single column coming soon page - [Repository](https://github.com/andreserudo/ping) - [Live Site](https://ping-serudo.vercel.app/)<br>
 Social media dashboard with theme switcher - 
 [Repository](https://github.com/andreserudo/social-media-switcher-theme) <br>
-Huddle landing page with alternating feature blocks - [Repository](https://github.com/andreserudo/huddleLandingPage) - [Live Site](https://huddle-landing-page-serudo.vercel.app/)
+Huddle landing page with alternating feature blocks - [Repository](https://github.com/andreserudo/huddleLandingPage) - [Live Site](https://huddle-landing-page-serudo.vercel.app/) <br>
 Base Apparel coming soon page - [Repository](https://github.com/andreserudo/baseApparel)
